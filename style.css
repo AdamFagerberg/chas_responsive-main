@@ -38,13 +38,13 @@ h1 {
   margin: 20px;
 }
 
-.fa-solid {
+.fa-lg {
   display: none;
   padding: 20px;
   cursor: pointer;
 }
 
-.fa-solid:hover {
+.fa-lg:hover {
   color: #555;
 }
 
@@ -129,7 +129,7 @@ footer {
     height: auto;
   }
 
-  .fa-solid {
+  .fa-lg {
     display: flex;
   }
 
